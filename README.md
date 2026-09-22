@@ -5,7 +5,7 @@
 </p>
 
 ---
-I'm a university student studying Mathematics & Computer Science at Durham University.
+I'm a university student studying <b>Mathematics & Computer Science<b> at Durham University.
 
 I enjoy building Python projects, mostly Discord bots and small automation tools. I enjoy problem solving and thinking outside of the box!
 
