@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there, I'm Emlyn Phoenix</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/egwuenugift">LinkedIn</a> •
+  <a href="https://linkedin.com/in/emlyn-phoenix">LinkedIn</a>
 </p>
 
 ---
@@ -13,5 +13,5 @@ Outside of tech and academia, I enjoy hiking, photography and exploring somewher
 
 ---
 
-- 📫 Reach me on [X](https://x.com/lauragift_) or [email](mailto:hello@thegiftcode.dev)  
-- 😄 Pronouns: She/Her  
+- 📫 Reach me on  [email](mailto:emlynphoenix1@gmail.com)  
+- 😄 Pronouns: He/Him  
